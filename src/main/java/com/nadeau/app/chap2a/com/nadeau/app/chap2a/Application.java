@@ -1,4 +1,4 @@
-package com.nadeau.app.chap2a ;
+package com.nadeau.app.chap2a.com.nadeau.app.chap2a ;
 
 import java.util.List;
 
